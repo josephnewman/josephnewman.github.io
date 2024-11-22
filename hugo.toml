@@ -5,3 +5,4 @@ theme = 'Hugo Bear Blog'
 [params]
     footerText = '© Joseph Newman 2024'
     favicon = 'images/favicon.png'
+    hideMadeWithLine = true
