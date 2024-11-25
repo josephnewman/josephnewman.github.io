@@ -1,0 +1,7 @@
+<ul class="social-menu">
+    {{ range .Site.Params.social }}
+    <li>
+        {{ .name }}: <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .value }}</a>
+    </li>
+    {{ end }}
+</ul>

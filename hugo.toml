@@ -2,8 +2,12 @@ baseURL = 'https://josephnewman.github.io/'
 languageCode = 'en-us'
 title = 'Joseph Newman'
 theme = 'Hugo Bear Blog'
+
 [params]
     footerText = '© Joseph Newman 2024'
     favicon = 'images/favicon.png'
     hideMadeWithLine = true
-    logo = false
+
+    social = [
+        { name = "Email", value = "placeholder@gmail.com" , url = 'mailto:placeholder@gmail.com'},
+    ]

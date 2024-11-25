@@ -7,4 +7,4 @@ title = 'Contact'
 
 # Contact
 
-Please reach out! Come back soon for more info...
+{{< social-menu >}}
