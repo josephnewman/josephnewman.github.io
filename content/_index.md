@@ -2,6 +2,6 @@
 title = 'Home'
 +++
 
-![T cell](images/T_cell.jpg)
+![NK cell](images/cell.jpg)
 
-Image credit: National Institute for Allergy and Infectious Diseases
+Image credit: Dave Dorward (Flickr)
