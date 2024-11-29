@@ -2,6 +2,6 @@
 title = 'Home'
 +++
 
-# Hello!
+![T cell](images/T_cell.jpg)
 
-Welcome to my main page. Check back soon :)
+Image credit: National Institute for Allergy and Infectious Diseases
